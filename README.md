@@ -1,2 +1,2 @@
 # blackjack
-Blackjack game in command line.
+Blackjack game to be played in the command line.
