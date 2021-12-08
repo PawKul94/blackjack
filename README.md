@@ -1,2 +1,2 @@
 # blackjack
-Blackjack game to be played in the command line.
+This Blackjack game tries to recreate the real casino blackjack accurately. You may hit, double down or pass. Good luck!
